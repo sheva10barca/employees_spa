@@ -1,5 +1,6 @@
 {
    "name": "employees",
+   "homepage": "https://sheva10barca.github.io/employees_spa",
    "version": "0.1.0",
    "private": true,
    "dependencies": {
